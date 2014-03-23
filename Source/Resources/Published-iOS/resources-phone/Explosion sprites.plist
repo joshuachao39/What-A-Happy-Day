@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Explosion sprites/explosion_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{29, 228}, {29, 25}}</string>
+			<key>offset</key>
+			<string>{-1, 6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{39, 39}, {29, 25}}</string>
+			<key>sourceSize</key>
+			<string>{110, 116}</string>
+		</dict>
+		<key>Explosion sprites/explosion_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 228}, {26, 26}}</string>
+			<key>offset</key>
+			<string>{-5, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{37, 35}, {26, 26}}</string>
+			<key>sourceSize</key>
+			<string>{110, 116}</string>
+		</dict>
+		<key>Explosion sprites/explosion_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{45, 183}, {34, 34}}</string>
+			<key>offset</key>
+			<string>{-3, 9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{35, 32}, {34, 34}}</string>
+			<key>sourceSize</key>
+			<string>{110, 116}</string>
+		</dict>
+		<key>Explosion sprites/explosion_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 183}, {42, 43}}</string>
+			<key>offset</key>
+			<string>{-4, 9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{30, 27}, {42, 43}}</string>
+			<key>sourceSize</key>
+			<string>{110, 116}</string>
+		</dict>
+		<key>Explosion sprites/explosion_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 119}, {62, 62}}</string>
+			<key>offset</key>
+			<string>{-4, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 19}, {62, 62}}</string>
+			<key>sourceSize</key>
+			<string>{110, 116}</string>
+		</dict>
+		<key>Explosion sprites/explosion_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {110, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {110, 116}}</string>
+			<key>sourceSize</key>
+			<string>{110, 116}</string>
+		</dict>
+		<key>Explosion sprites/explosion_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 256}, {-110, -116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{110, 116}, {-110, -116}}</string>
+			<key>sourceSize</key>
+			<string>{110, 116}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>Explosion sprites.png</string>
+	</dict>
+</dict>
+</plist>
